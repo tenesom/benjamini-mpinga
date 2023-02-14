@@ -1,0 +1,20 @@
+[
+  {
+    "listing": "/archive.html",
+    "items": [
+      "/posts/theSecond/index.html",
+      "/posts/jurisdition/index.html",
+      "/posts/post-with-code/index.html",
+      "/posts/welcome/index.html"
+    ]
+  },
+  {
+    "listing": "/blog.html",
+    "items": [
+      "/posts/theSecond/index.html",
+      "/posts/jurisdition/index.html",
+      "/posts/post-with-code/index.html",
+      "/posts/welcome/index.html"
+    ]
+  }
+]
