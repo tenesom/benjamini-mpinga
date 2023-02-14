@@ -12,9 +12,9 @@ website:
         - text: Blog
           href: blog.qmd 
         - icon: github
-          href: https://github.com/AlbertRapp
+          href: https://github.com/tenesom/
         - icon: twitter
-          href: https://twitter.com/rappa753
+          href: https://twitter.com/benjamini20
         # - icon: youtube
         #   href: https://www.youtube.com/user/Alfrodo123
   #########################
@@ -23,16 +23,14 @@ website:
           href: blog.xml
         - text: Ressources
           menu: 
-            - text: DataViz Portfolio
-              href: dataviz_portfolio.html
-            - text: YARDS
-              href: https://yards.albert-rapp.de/
             - text: R Weekly
               href: https://rweekly.org/
             - text: R Bloggers
               href: https://www.r-bloggers.com/
             - text: Semba-blog
               href: https://semba.netlify.app/
+            - text: Michi-blog
+              href: https://nyamisi.github.io/nyamisi/
         - text: Archive
           href: archive.qmd
   google-analytics: "14521548"

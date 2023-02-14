@@ -12,14 +12,14 @@
 <generator>quarto-1.2.269</generator>
 <lastBuildDate>Tue, 14 Feb 2023 21:00:00 GMT</lastBuildDate>
 <item>
-  <title>Deception</title>
+  <title>The story of Ancient greek: what do we learn</title>
   <dc:creator>Benjamini Mpinga</dc:creator>
-  <link>https://benjamini-mpinga.netlify.app/posts/theSecond/index.html</link>
+  <link>https://benjamini-mpinga.netlify.app/posts/deception/index.html</link>
   <description><![CDATA[ 
 
 
 
-<p>This post is showing the meaning of Jurisdiction, attached with Court’s judgement as reference, it’s useful in legal matters in Tanzania <img src="https://benjamini-mpinga.netlify.app/posts/theSecond/michi.jpg" class="img-fluid"></p>
+<p>Story is tailed by an ancient book from Greece, the story begins with a Prophecy to the King. By the oracle of Apollo <img src="https://benjamini-mpinga.netlify.app/posts/deception/ben_fety.jpg" class="img-fluid"></p>
 <section id="ancient-greece." class="level3">
 <h3 class="anchored" data-anchor-id="ancient-greece.">Ancient Greece.</h3>
 <p>Story is tailed by an ancient book from Greece, the story begins with a Prophecy to the King. By the oracle of Apollo, by then the King’s wife was Pregnant, and the oracle prophecy was that the child will be born and in his adulthood, the child will kill his father and marry his Mother.</p>
@@ -35,9 +35,9 @@
 
  ]]></description>
   <category>social</category>
-  <guid>https://benjamini-mpinga.netlify.app/posts/theSecond/index.html</guid>
+  <guid>https://benjamini-mpinga.netlify.app/posts/deception/index.html</guid>
   <pubDate>Tue, 14 Feb 2023 21:00:00 GMT</pubDate>
-  <media:content url="https://benjamini-mpinga.netlify.app/posts/theSecond/michi.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://benjamini-mpinga.netlify.app/posts/deception/ben_fety.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>JCourts teritorial in Tanzania</title>
@@ -103,52 +103,6 @@ Tip
   <guid>https://benjamini-mpinga.netlify.app/posts/jurisdition/index.html</guid>
   <pubDate>Mon, 13 Feb 2023 21:00:00 GMT</pubDate>
   <media:content url="https://benjamini-mpinga.netlify.app/posts/jurisdition/oceanLandIntera.jpg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>Post With Code</title>
-  <dc:creator>Harlow Malloc</dc:creator>
-  <link>https://benjamini-mpinga.netlify.app/posts/post-with-code/index.html</link>
-  <description><![CDATA[ 
-
-
-
-<p>This is a post with executable code.</p>
-<div class="cell">
-<div class="sourceCode cell-code" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><span class="dv" style="color: #AD0000;">1</span> <span class="sc" style="color: #5E5E5E;">+</span> <span class="dv" style="color: #AD0000;">1</span></span></code></pre></div>
-<div class="cell-output cell-output-stdout">
-<pre><code>[1] 2</code></pre>
-</div>
-</div>
-
-
-
- ]]></description>
-  <category>news</category>
-  <category>code</category>
-  <category>analysis</category>
-  <guid>https://benjamini-mpinga.netlify.app/posts/post-with-code/index.html</guid>
-  <pubDate>Mon, 13 Feb 2023 21:00:00 GMT</pubDate>
-  <media:content url="https://benjamini-mpinga.netlify.app/posts/post-with-code/image.jpg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>Welcome To My Blog</title>
-  <dc:creator>Tristan O&#39;Malley</dc:creator>
-  <link>https://benjamini-mpinga.netlify.app/posts/welcome/index.html</link>
-  <description><![CDATA[ 
-
-
-
-<p>This is the first post in a Quarto blog. Welcome!</p>
-<p><img src="https://benjamini-mpinga.netlify.app/posts/welcome/thumbnail.jpg" class="img-fluid"></p>
-<p>Since this post doesn’t specify an explicit <code>image</code>, the first image in the post will be used in the listing page of posts.</p>
-
-
-
- ]]></description>
-  <category>news</category>
-  <guid>https://benjamini-mpinga.netlify.app/posts/welcome/index.html</guid>
-  <pubDate>Fri, 10 Feb 2023 21:00:00 GMT</pubDate>
-  <media:content url="https://benjamini-mpinga.netlify.app/posts/welcome/thumbnail.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>
