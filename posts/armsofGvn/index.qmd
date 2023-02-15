@@ -1,5 +1,5 @@
 ---
-title: "Legal governance in Tanzania: How the laws are made, application and Interpretation"
+title: "Legal governance in Tanzania: How the laws are made, executed and Interpretation"
 author: "Benjamini Mpinga"
 date: "2023-02-18"
 categories: [legal]
