@@ -1,17 +1,18 @@
 ---
-title: "JCourts teritorial in Tanzania"
+title: "Courts teritorial in Tanzania: Authorities to support court's decisions"
 author: "Benjamini Mpinga"
-date: "2023-02-14"
+date: "2023-02-1"
 categories: [legal]
 ---
 
-This post is showing the meaning of Jurisdiction, attached with Court's judgement as reference, it's useful in legal matters in Tanzania ![](oceanLandIntera.jpg)
+This post is showing the meaning of Jurisdiction, attached with Court's judgement as reference, it's useful in legal matters in Tanzania. 
+![](lion.jpg)
 
-**JURISDICTION**
+### JURISDICTION
 
 It is fundamental issue that the Court may raise suo motu whenever appropriate. Hulsbury's Laws of England, 4th Edition, Reissue Vol. 10, para. 314, defines jurisdiction as follows:
 
-\*\*\*"By 'jurisdiction'\*\*\* is meant the authority which a court has to decide matters that are litigated before it or to take cognizance of matters presented in a formal way for its decision. The limits of this authority are imposed by the statute, charter or commission under which the court is constituted, and may be extended or restricted by similar means".
+"By 'jurisdiction: is meant the authority which a court has to decide matters that are litigated before it or to take cognizance of matters presented in a formal way for its decision. The limits of this authority are imposed by the statute, charter or commission under which the court is constituted, and may be extended or restricted by similar means".
 
 The case of Bestcom Company Ltd vs. Jacob Mtalitinya t/a IT Farm, High Court of Tanzania at Dar es Salaam Civil Case No. 160 of 2012 (unreported) has explained the issues of pecuniary jurisdiction in deep.
 
@@ -23,15 +24,7 @@ Pecuniary jurisdiction of the Primary Courts Section 20 of the Written Laws (Mis
 
 The Court of Appeal in Tanzania Friendship Textile Mill vs. Our Lady of the Usambara Sisters \[2006\] TLR 70 held that the High Court did not have jurisdiction to determine civil suits in which the quantum of damages sought fell within the pecuniary jurisdiction of District Courts and Courts of Resident Magistrates.
 
-# Subject matter jurisdiction
-
-$$
-loss of human potential = lack of motivation + lack of responsibilty
-$$
-
-$$
-a = \frac{A}{B}
-$$
+### Subject matter jurisdiction
 
 All land cases now fall under the exclusive jurisdiction of the Land and Housing Tribunals and the Land Division of the High Court, established under the Land Disputes Courts Act \[CAP. 216 R.E. 2002\].
 
@@ -58,6 +51,8 @@ All land cases now fall under the exclusive jurisdiction of the Land and Housing
 **(x)** admiralty proceedings; and
 
 **(xi)** arbitration proceedings.
+
+![](court.jpg)
 
 Writing on such rules in common law jurisdictions, Elmer Driedger, in his Construction of Statutes (Toronto: Butterworths, 1983, p. 1), observes:
 
