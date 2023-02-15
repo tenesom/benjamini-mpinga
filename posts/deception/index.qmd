@@ -1,5 +1,5 @@
 ---
-title: "The story of Ancient greek: what do we learn"
+title: "The story of Ancient greek: what do we learn?"
 author: "Benjamini Mpinga"
 date: "2023-02-15"
 categories: [social]

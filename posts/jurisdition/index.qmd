@@ -1,5 +1,5 @@
 ---
-title: "Courts teritorial in Tanzania: Authorities to support court's decisions"
+title: "Courts teritorial in Tanzania: laws to support court's decisions"
 author: "Benjamini Mpinga"
 date: "2023-02-1"
 categories: [legal]

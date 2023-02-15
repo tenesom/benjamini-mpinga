@@ -1,11 +1,11 @@
 ---
-title: "Hurman behaviour: How hurman behaviour develope to become their characters"
+title: "Human behavior: How human behavior develop to become a character"
 author: "Benjamini Mpinga"
 date: "2023-02-20"
 categories: [social]
 ---
 
-anadamu wote tunatokana na mfumo mooja, tunaanza kwa kutungwa mimba, kisha kupita katika mabadiliko kadhaa na baada ya kukamilika muda wa kukaa ndani ya tumbo la mwanamke, ndipo tunazaliwa katika hali ya uchanga.
+wanadamu wote tunatokana na mfumo mmoja, tunaanza kwa kutungwa mimba, kisha kupita katika mabadiliko kadhaa na baada ya kukamilika muda wa kukaa ndani ya tumbo la mwanamke, ndipo tunazaliwa katika hali ya uchanga.
 ![](kongolo.jpg)
 
 ### Usawa.

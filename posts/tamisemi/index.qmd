@@ -1,5 +1,5 @@
 ---
-title: "Tamisemi: The curent transfer process, through public servant's application"
+title: "Tamisemi: The curent transfer process, by a public servant's application"
 author: "Benjamini Mpinga"
 date: "2023-03-10"
 categories: [legal]
