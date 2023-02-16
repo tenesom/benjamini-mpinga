@@ -4,13 +4,12 @@ author: "Benjamini Mpinga"
 date: "2023-02-28"
 categories: [legal]
 ---
+### Common laws
 
 This principles are some of the basic laws,they are older than 600 years ago.these laws are world wide recognized.are the fundamental rights to everyone and every situation.
 ![](court.jpg)
 
-### This principles are some of the basic laws,they are older than 600 years ago.these laws are world wide recognised.are the fundamental rights to everyone and every situation.
-
-**Actio Personalis Mortiur Corn Persona**: A parson right of action dies with a parson.
+**Actio Personalis Mortiur Corn Persona**: A person right of action dies with a parson.
 
 **Actus Nonfacit Reum Nisimens Sit Rea:** A conviction of a crime requires proof of a guilt mind/no criminal conviction until mind is guilt.
 

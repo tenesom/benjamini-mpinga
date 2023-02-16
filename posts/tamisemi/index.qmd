@@ -4,19 +4,17 @@ author: "Benjamini Mpinga"
 date: "2023-03-10"
 categories: [legal]
 ---
+### Procedures
 
 Tamisemi Procedures to follow when a public servant seek to shift from one Municipal to another Municipal. Here below are the current steps a public servant should get prepared to go through during the process.
+
 ![](benja.jpg)
 
-**Procedures**
-
-Tamisemi Procedures to follow when a public servant seek to shift from one Municipal to another Municipal. Here below are the current steps a public servant should get prepared to go through during the process.
-
-The process are usual performed by the Local Government officials, this means a public servant must initiate the process, and after the submission of document at **DED'S OFFICE**, then the public servant has no roll to intervene the process until it's done.
+The process are usual performed by the Local Government officials, this means a public servant only initiate the process, and after the submission of document at **DED'S OFFICE** of his/her working station, then the public servant has no roll to next process until it's done.
 
 If the process follows its regulations may take a bit while, this is due to government process server, mainly government usually uses Posters to deliver its documents, since the process is done manual.
 
-**ADVANTAGES OF THE PROCESS**
+### ADVANTAGES OF THE PROCESS**
 
 Firstly, the current process is absolutely fit to the government's concept of preserving its documents. Preservation of government's document is very important in order to avoid linkage of classified information. Therefor the Public Servant's information is of one of the very important document to both government and Servant.
 
@@ -41,9 +39,9 @@ flowchart TB
   B -- DED --8th --> F
 ```
 
-**A figure above shows the current shifting process.**
+**A flowchart above shows the current shifting process.**
 
-**DESCRIPTIONS.**
+### DESCRIPTIONS.**
 
 **Step 1.**
 
@@ -73,7 +71,7 @@ District Executive Director **(DED)** of his/her current work station shall, wri
 
 The last step is the Public servant report to the New working station, this is done after receiving the permission latter from Both Utumishi and DED. Soon after his/her report the public servant is required to inform the **Utumishi CS** through **New Municipal** **DED**, that he/she has already report.
 
-**DISADVANTAGES OF THE PROCESS.**
+### DISADVANTAGES OF THE PROCESS.
 
 -   **Time and material cost;** this is due to fact that a public servant need to bear some material cost when shifting even if sometimes there are genuine reasons for his/her request.
 
@@ -83,26 +81,26 @@ The last step is the Public servant report to the New working station, this is d
 
 -   **Less efficiency;** this is due to fact that, a public servant must concentrate much of his/her time to seek feedback of for followup of his/her request, this reduces concentration to work.
 
-**PROPOSAL**
+
+![](bwz.jpg)
+
+### PROPOSED PROCEDURES.
 
 Although there are many advantages and some disadvantages on the current shifting process, there few things must be taken into consideration as we move forward, we must put in place some useful measures to improve the current system.
 
 1.  **Integrate online system:** this method can improve the system in many ways such as, Unnecessary delay of report, Cost during the process, simplifying the feedback to both A public servant as well as Municipal authority, Easy method to be accessed by the whole chain in government sectors. This type of system will also reduces the possibility of lost of document during the process.
 2.  **Discourage personal choice:** the current method allows a public servant to seek a vacancy directly to a specific Municipal, but sometimes this may cause one to cooperate with another administrator to get chance in that Municipal , here is when you can smell the corruption rumors. So to tackle this i suggest that, Tamisemi after reception of a shifting latter from RAC office, it must play a roll to decide as follow.
 
-![](bwz.jpg)
-
-**PROPOSED PROCEDURES**.
 
 Every public servant shall be required to have a Government service account accessible via his/her cheque number, employee account shall be accessible by both all above authorities of the Local Government Ministry **From Servant to CS,** and a servant shall use that account for three main reasons.
 
--   To file Leave letters
+- To file Leave letters
 
--   To claim servant's rights at work as well as social security services.
+- To claim servant's rights at work as well as social security services.
 
--   To file transfer and shift letters and similar reports.
+- To file transfer and shift letters and similar reports.
 
-Therefore every letter together with all necessary attachment shall be filled **online** through that employee account, and it will be accessible by **MOI**, **DMO** and **DED**. After all mention authorities approve the form then a servant shall push that form to **TAMISEMI** through **RAS** office for determination of mentioned grounds for transfer/shift.
+Therefor every letter together with all necessary attachment shall be filled **online** through that employee account, and it will be accessible by **MOI**, **DMO** and **DED**. After all mention authorities approve the form then a servant shall push that form to **TAMISEMI** through **RAS** office for determination of mentioned grounds for transfer/shift.
 
 This process will allow a servant to followup the progress of his/her request directly and if any query/comment will be raise from the above authority, a servant will be able to answer or fulfill whatever has been raised through the same platform. This process will end the age of lamentation and doubt from many public servants.
 
@@ -122,4 +120,4 @@ flowchart TB
   A -- Report -->E
 ```
 
-Now the above chart is what the shifting system sha operate.
+The flowchart above shows the proposed system.
