@@ -27,6 +27,8 @@ website:
               href: https://rweekly.org/
             - text: R Bloggers
               href: https://www.r-bloggers.com/
+            - text: benjamini-blog
+              href: https://tenesom.github.io/Benjamini-teneson/
             - text: Semba-blog
               href: https://semba.netlify.app/
             - text: Michi-blog
