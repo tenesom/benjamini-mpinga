@@ -2,6 +2,7 @@
   {
     "listing": "/archive.html",
     "items": [
+      "/posts/suluhuyadini/index.html",
       "/posts/kingdom/index.html",
       "/posts/behaviour/index.html",
       "/posts/wildnessjourney/index.html",
@@ -15,12 +16,13 @@
       "/posts/revelation/index.html",
       "/posts/salvation/index.html",
       "/posts/scriptures/index.html",
-      "/posts/wasifu_wa_Yesu/index.html"
+      "/posts/The-living-hope/index.html"
     ]
   },
   {
     "listing": "/blog.html",
     "items": [
+      "/posts/suluhuyadini/index.html",
       "/posts/kingdom/index.html",
       "/posts/behaviour/index.html",
       "/posts/wildnessjourney/index.html",
@@ -34,7 +36,7 @@
       "/posts/revelation/index.html",
       "/posts/salvation/index.html",
       "/posts/scriptures/index.html",
-      "/posts/wasifu_wa_Yesu/index.html"
+      "/posts/The-living-hope/index.html"
     ]
   }
 ]
