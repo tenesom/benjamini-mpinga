@@ -8,19 +8,24 @@ website:
   description: "Coding for all for better today and tommorow"
   
   navbar:
+      background: "darkblue"
       right:
-        - text: Blog
+        - text: Articles
           href: blog.qmd 
         - icon: github
           href: https://github.com/tenesom/
         - icon: twitter
           href: https://twitter.com/benjamini20
-        # - icon: youtube
+        - icon: facebook
+          href: https://www.facebook.com/benjamini.mpinga?mibextid=ZbWKwL
+        - icon: tiktok
+          href: https://www.tiktok.com/@mstandrew7?_t=8aghm52NTok&_r=1
+        - icon: youtube
         #   href: https://www.youtube.com/user/Alfrodo123
   #########################
   # You can ignore this part in the first step
-        - icon: rss
-          href: blog.xml
+       # - icon: rss
+        #  href: blog.xml
         - text: Ressources
           menu: 
             - text: R Weekly
@@ -51,7 +56,15 @@ website:
 
 format:
   html:
-    theme: lux
+    theme: 
+     light: litera
+     dark: darkly
+     
+      
+     
+      
+      
+      
   
  
 

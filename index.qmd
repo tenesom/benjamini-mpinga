@@ -2,7 +2,7 @@
 # title: "Benjamini"
 # image: benprofile.jpg
 about:
-  template: jolla
+  template: marquee
   links:
     - icon: twitter
       text: Twitter

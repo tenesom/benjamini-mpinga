@@ -3,7 +3,7 @@ title: "Archive"
 page-layout: full
 listing:
   contents: posts/**/*.qmd
-  type: default
+  type: grid
   fields: [date, title]
   sort: 'date desc'
 ---

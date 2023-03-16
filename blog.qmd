@@ -3,10 +3,10 @@ title: ""
 listing:
   contents: posts
   sort: "date desc"
-  type: default
+  type: grid
   categories: true
   sort-ui: false
-  filter-ui: false
+  filter-ui: true
   fields: [date, title, reading-time, description, categories, image, author]
   feed: true
 page-layout: full
