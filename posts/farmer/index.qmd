@@ -1,5 +1,5 @@
 ---
-title: "A farmer: not every animal is made to keep"
+title: "A farmer: not every animal is made to keep."
 author: "Benjamini Mpinga"
 date: "2023-02-10"
 categories: [social]

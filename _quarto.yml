@@ -10,7 +10,7 @@ website:
   navbar:
       background: "darkblue"
       right:
-        - text: Articles
+        - text: Posts
           href: blog.qmd 
         - icon: github
           href: https://github.com/tenesom/

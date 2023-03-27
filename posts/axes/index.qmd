@@ -1,5 +1,5 @@
 ---
-title: "Axe's deception: A devided society can never realize its potential"
+title: "Axe's deception: A devided society can never realize its potential."
 author: "Benjamini Mpinga"
 date: "2023-02-12"
 categories: [social]

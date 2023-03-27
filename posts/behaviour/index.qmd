@@ -1,7 +1,7 @@
 ---
-title: "Tabia za wanadamu: Jinsi gani tabia inabadilika kuwa sifa ya mtu?."
+title: "Tabia za wanadamu: Jinsi tabia inavyobadilika kuwa sifa ya mtu."
 author: "Benjamini Mpinga"
-date: "2023-02-28"
+date: "2023-03-30"
 categories: [social]
 ---
 
@@ -11,6 +11,7 @@ wanadamu wote tunatokana na mfumo mmoja, tunaanza kwa kutungwa mimba, kisha kupi
 
 
 ![](naj2.jpg)
+
 Upekee huo mara nyingi unachagizwa na mambo kadhaa
 
 1. Tabia ya wazazi
