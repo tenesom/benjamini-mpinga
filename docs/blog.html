@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.2.269">
+<meta name="generator" content="quarto-1.3.319">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -17,7 +17,7 @@ div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
   width: 0.8em;
-  margin: 0 0.8em 0.2em -1.6em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
 </style>
@@ -75,7 +75,8 @@ ul.task-list li input[type="checkbox"] {
 
     const options = {
       valueNames: ['listing-date','listing-title','listing-reading-time','listing-description','listing-categories','listing-image','listing-author',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
+      page: 18,
+    pagination: { item: "<li class='page-item'><a class='page page-link' href='#'></a></li>" },
       searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description","listing-categories"],
     };
 
@@ -119,11 +120,12 @@ cookieconsent.run({
 </script> 
   
 
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
   <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
 <link rel="alternate" type="application/rss+xml" title="Benjamini Mpinga" href="blog.xml"><meta name="twitter:title" content="Benjamini Mpinga -">
 <meta name="twitter:image" content="https://benjamini-mpinga.netlify.app/thumbnail_blog.png">
-<meta name="twitter:creator" content="@rappa753">
+<meta name="twitter:creator" content="benjamini@">
 <meta name="twitter:card" content="summary_large_image">
 </head>
 
@@ -138,76 +140,76 @@ cookieconsent.run({
     <span class="navbar-title">Benjamini Mpinga</span>
     </a>
   </div>
+            <div id="quarto-search" class="" title="Search"></div>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
   <span class="navbar-toggler-icon"></span>
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link active" href="./blog.html" aria-current="page">
+    <a class="nav-link active" href="./blog.html" rel="" target="" aria-current="page">
  <span class="menu-text">Posts</span></a>
   </li>  
   <li class="nav-item compact">
-    <a class="nav-link" href="https://github.com/tenesom/"><i class="bi bi-github" role="img">
+    <a class="nav-link" href="https://github.com/tenesom/" rel="" target=""><i class="bi bi-github" role="img">
 </i> 
  <span class="menu-text"></span></a>
   </li>  
   <li class="nav-item compact">
-    <a class="nav-link" href="https://twitter.com/benjamini20"><i class="bi bi-twitter" role="img">
+    <a class="nav-link" href="https://twitter.com/benjamini20" rel="" target=""><i class="bi bi-twitter" role="img">
 </i> 
  <span class="menu-text"></span></a>
   </li>  
   <li class="nav-item compact">
-    <a class="nav-link" href="https://www.facebook.com/benjamini.mpinga?mibextid=ZbWKwL"><i class="bi bi-facebook" role="img">
+    <a class="nav-link" href="http://www.linkedin.com/in/benjamini-mpinga" rel="" target=""><i class="bi bi-linkedin" role="img">
 </i> 
  <span class="menu-text"></span></a>
   </li>  
   <li class="nav-item compact">
-    <a class="nav-link" href="https://www.tiktok.com/@mstandrew7?_t=8aghm52NTok&amp;_r=1"><i class="bi bi-tiktok" role="img">
+    <a class="nav-link" href="https://www.tiktok.com/@mstandrew7?_t=8aghm52NTok&amp;_r=1" rel="" target=""><i class="bi bi-tiktok" role="img">
 </i> 
  <span class="menu-text"></span></a>
   </li>  
   <li class="nav-item compact">
-    <a class="nav-link" href="https://www.youtube.com/@benjamini_mpinga"><i class="bi bi-youtube" role="img">
+    <a class="nav-link" href="https://www.youtube.com/@benjamini_mpinga" rel="" target=""><i class="bi bi-youtube" role="img">
 </i> 
  <span class="menu-text"></span></a>
   </li>  
   <li class="nav-item dropdown ">
-    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-ressources" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-ressources" role="button" data-bs-toggle="dropdown" aria-expanded="false" rel="" target="">
  <span class="menu-text">Ressources</span>
     </a>
     <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-ressources">    
         <li>
-    <a class="dropdown-item" href="https://rweekly.org/">
+    <a class="dropdown-item" href="https://rweekly.org/" rel="" target="">
  <span class="dropdown-text">R Weekly</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="https://www.r-bloggers.com/">
+    <a class="dropdown-item" href="https://www.r-bloggers.com/" rel="" target="">
  <span class="dropdown-text">R Bloggers</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="https://tenesom.github.io/Benjamini-teneson/">
+    <a class="dropdown-item" href="https://tenesom.github.io/Benjamini-teneson/" rel="" target="">
  <span class="dropdown-text">benjamini-blog</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="https://semba.netlify.app/">
+    <a class="dropdown-item" href="https://semba.netlify.app/" rel="" target="">
  <span class="dropdown-text">Semba-blog</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="https://nyamisi.github.io/nyamisi/">
+    <a class="dropdown-item" href="https://nyamisi.github.io/nyamisi/" rel="" target="">
  <span class="dropdown-text">Michi-blog</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./archive.html">
+    <a class="dropdown-item" href="./archive.html" rel="" target="">
  <span class="dropdown-text">Archive</span></a>
   </li>  
     </ul>
   </li>
 </ul>
-              <div class="quarto-toggle-container">
-                  <a href="" class="quarto-color-scheme-toggle nav-link" onclick="window.quartoToggleColorScheme(); return false;" title="Toggle dark mode"><i class="bi"></i></a>
-              </div>
-              <div id="quarto-search" class="" title="Search"></div>
+            <div class="quarto-navbar-tools">
+  <a href="" class="quarto-color-scheme-toggle quarto-navigation-tool  px-1" onclick="window.quartoToggleColorScheme(); return false;" title="Toggle dark mode"><i class="bi"></i></a>
+</div>
           </div> <!-- /navcollapse -->
       </div> <!-- /container-fluid -->
     </nav>
@@ -218,7 +220,7 @@ cookieconsent.run({
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(18)</span></div><div class="category" data-category="faith">faith <span class="quarto-category-count">(9)</span></div><div class="category" data-category="social">social <span class="quarto-category-count">(9)</span></div></div></div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(19)</span></div><div class="category" data-category="faith">faith <span class="quarto-category-count">(10)</span></div><div class="category" data-category="social">social <span class="quarto-category-count">(9)</span></div></div></div>
 <!-- main -->
 <main class="content column-page-left" id="quarto-document-content">
 
@@ -236,18 +238,16 @@ cookieconsent.run({
     </div>
 </div>
 <div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-categories="social" data-listing-date-sort="1680642000000" data-listing-file-modified-sort="1680860976519" data-listing-reading-time-sort="3.85">
-<a href="./posts/kisa-cha-bedui/index.html" class="quarto-grid-link">
+<div class="g-col-1" data-index="0" data-categories="social" data-listing-date-sort="1685566800000" data-listing-file-modified-sort="1686824339125" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5">
+<a href="./posts/Marriage/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img src="./posts/kisa-cha-bedui/horse-parable.jpg" class="thumbnail-image card-img" style="height: 150px;">
-</p>
+<p class="card-img-top"><img src="posts\Marriage\denis.jpg" style="height: 150px;"  class="thumbnail-image card-img"/></p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
-Bedui na Farasi wake: Heshimu Msukumo wa maono, na usivutwe na Mitizamo ya nje.
+Marriage: Is marriage a Sacrament, Convenant or Contract?
 </h5>
 <div class="listing-reading-time card-text text-muted">
-3 min
+5 min
 </div>
 <div class="listing-categories">
 <div class="listing-category" onclick="window.quartoListingCategory('social'); return false;">
@@ -255,7 +255,69 @@ social
 </div>
 </div>
 <div class="card-text listing-description">
-Sukumwa na maono kutoka ndani na usivutwe na mitazo ya nje pekee. Zikumbuke njia zako ulizopita, kisha fanya maamuzi kwa kuzingatia uhalisia wa safari yako ya maisha na sio…
+A sacrament, contract, and covenant are three different concepts with distinct meanings. Here’s a brief explanation of each term: In religious contexts, a sacrament is a…
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Benjamini Mpinga
+</div>
+<div class="listing-date">
+Jun 1, 2023
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="1" data-categories="faith" data-listing-date-sort="1684530000000" data-listing-file-modified-sort="1686758928946" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="8">
+<a href="./posts/Ndoa/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top"><img src="posts\Ndoa\ndoa3.jpg" style="height: 150px;"  class="thumbnail-image card-img"/></p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Ndoa: Je, ndoa ni Sakramenti, Agano, au Mkataba?.
+</h5>
+<div class="listing-reading-time card-text text-muted">
+8 min
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('faith'); return false;">
+faith
+</div>
+</div>
+<div class="card-text listing-description">
+Katika muktadha wa kidini, sakramenti ni ibada takatifu au sherehe ambayo inachukuliwa kuwa ishara ya nje ya neema ya kiroho ndani ya mtu. Sakramenti mara nyingi hufungamana…
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Benjamini Mpinga
+</div>
+<div class="listing-date">
+May 20, 2023
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="2" data-categories="social" data-listing-date-sort="1680642000000" data-listing-file-modified-sort="1686824168270" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="16">
+<a href="./posts/behaviour/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top"><img src="posts\behaviour\naj2.jpg" style="height: 150px;"  class="thumbnail-image card-img"/></p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Makundi ya Tabia: Jinsi tabia inavyobadilika kuwa sifa ya mtu.
+</h5>
+<div class="listing-reading-time card-text text-muted">
+16 min
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('social'); return false;">
+social
+</div>
+</div>
+<div class="card-text listing-description">
+Ni kweli kuwa wanadamu wote tunatokana na mfumo mmoja na tunaanza maisha yetu kwa kutungwa mimba. Baada ya hapo, tunapitia mabadiliko kadhaa wakati tukikua katika tumbo la…
 </div>
 <div class="card-attribution card-text-small justify">
 <div class="listing-author">
@@ -269,26 +331,24 @@ Apr 5, 2023
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="1" data-categories="social" data-listing-date-sort="1680123600000" data-listing-file-modified-sort="1679759709442" data-listing-reading-time-sort="12.095">
-<a href="./posts/behaviour/index.html" class="quarto-grid-link">
+<div class="g-col-1" data-index="3" data-categories="faith" data-listing-date-sort="1680123600000" data-listing-file-modified-sort="1686023752412" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="8">
+<a href="./posts/ubatizo/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img src="./posts/behaviour/naj2.jpg" class="thumbnail-image card-img" style="height: 150px;">
-</p>
+<p class="card-img-top"><img src="posts\ubatizo\sara1.jpg" style="height: 150px;"  class="thumbnail-image card-img"/></p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
-Tabia za wanadamu: Jinsi tabia inavyobadilika kuwa sifa ya mtu.
+Ubatizo: je, nini tofauti ya ubatizo wa maji na wa Roho Mtakatifu?.
 </h5>
 <div class="listing-reading-time card-text text-muted">
-12 min
+8 min
 </div>
 <div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('social'); return false;">
-social
+<div class="listing-category" onclick="window.quartoListingCategory('faith'); return false;">
+faith
 </div>
 </div>
 <div class="card-text listing-description">
-wanadamu wote tunatokana na mfumo mmoja, tunaanza kwa kutungwa mimba, kisha kupita katika mabadiliko kadhaa na baada ya kukamilika muda wa kukaa ndani ya tumbo la mwanamke…
+Kuna imani na mafundisho mengi yanayohusiana na ubatizo, na tumejifunza kwamba ubatizo ulianza kuonekana katika vitendo wakati wa mwanzo kabisa wa Agano Jipya. Kulingana na…
 </div>
 <div class="card-attribution card-text-small justify">
 <div class="listing-author">
@@ -302,18 +362,16 @@ Mar 30, 2023
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="2" data-categories="faith" data-listing-date-sort="1679950800000" data-listing-file-modified-sort="1680854676577" data-listing-reading-time-sort="5.885">
-<a href="./posts/ubatizo/index.html" class="quarto-grid-link">
+<div class="g-col-1" data-index="4" data-categories="faith" data-listing-date-sort="1679950800000" data-listing-file-modified-sort="1685525454932" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="8">
+<a href="./posts/1st 4 Gospel/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img src="./posts/ubatizo/sara1.jpg" class="thumbnail-image card-img" style="height: 150px;">
-</p>
+<p class="card-img-top"><img src="posts\1st 4 Gospel\kongolo.jpg" style="height: 150px;"  class="thumbnail-image card-img"/></p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
-Ubatizo: je, nini tofauti ya ubatizo wa maji na wa Roho Mtakatifu?.
+Taswira halisi ya Yesu Kristo: Ipi Nasaba ya Yesu Kristo katika injili?.
 </h5>
 <div class="listing-reading-time card-text text-muted">
-5 min
+8 min
 </div>
 <div class="listing-categories">
 <div class="listing-category" onclick="window.quartoListingCategory('faith'); return false;">
@@ -321,7 +379,7 @@ faith
 </div>
 </div>
 <div class="card-text listing-description">
-Wengi tunaamini na tunasoma ya kwamba, upo ubatizo, na ubatizo huo unaanza kuonekana zaidi katika vitendo wakati wa mwanzo kabisa wa Agano jipya, kwa mujibu wa maandiko ni…
+Vitabu vinne vya kwanza vya Injili katika Biblia, yaani Mathayo, Marko, Luka, na Yohana, viliandikwa na watu tofauti kwa nyakati tofauti. Kila mwandishi aliandika kuhusu…
 </div>
 <div class="card-attribution card-text-small justify">
 <div class="listing-author">
@@ -335,18 +393,16 @@ Mar 28, 2023
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="3" data-categories="faith" data-listing-date-sort="1679864400000" data-listing-file-modified-sort="1680862328328" data-listing-reading-time-sort="5.395">
-<a href="./posts/1st 4 Gospel/index.html" class="quarto-grid-link">
+<div class="g-col-1" data-index="5" data-categories="faith" data-listing-date-sort="1679864400000" data-listing-file-modified-sort="1686121321915" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="34">
+<a href="./posts/revelation/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img src="./posts/1st 4 Gospel/kongolo.jpg" class="thumbnail-image card-img" style="height: 150px;">
-</p>
+<p class="card-img-top"><img src="posts\revelation\lastdays.jpg" style="height: 150px;"  class="thumbnail-image card-img"/></p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
-Taswira halisi ya Yesu Kristo: Nasaba ya Yesu Kristo katika injili.
+Kitabu cha Ufunuo: Zawadi ya Mungu Baba kwa watakatifu wake.
 </h5>
 <div class="listing-reading-time card-text text-muted">
-5 min
+34 min
 </div>
 <div class="listing-categories">
 <div class="listing-category" onclick="window.quartoListingCategory('faith'); return false;">
@@ -354,7 +410,7 @@ faith
 </div>
 </div>
 <div class="card-text listing-description">
-Mathayo anamuona Yesu Mwana wa Ibrahimu, Marko anamuona Yesu Nabii mtenda miujiza, Luka anamuona Yesu Mwana wa Adam, na Yohana anamuona Yesu Mwana wa mungu na Mungu kamili.…
+Watu wengi katika kizazi cha kale na hata kizazi cha sasa, tunayo mawazo yetu mazuri tuliyonayo juu ya Mungu, kwa bahati nzuri mawazo hayo hayajatokana na kiburi au ujinga…
 </div>
 <div class="card-attribution card-text-small justify">
 <div class="listing-author">
@@ -368,51 +424,16 @@ Mar 27, 2023
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="4" data-categories="social" data-listing-date-sort="1679778000000" data-listing-file-modified-sort="1680027924655" data-listing-reading-time-sort="8.195">
-<a href="./posts/academic/index.html" class="quarto-grid-link">
+<div class="g-col-1" data-index="6" data-categories="faith" data-listing-date-sort="1679259600000" data-listing-file-modified-sort="1686759455659" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="17">
+<a href="./posts/church/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img src="./posts/academic/younge-being.jpg" class="thumbnail-image card-img" style="height: 150px;">
-</p>
+<p class="card-img-top"><img src="posts\church\Kanisa.jpg" style="height: 150px;"  class="thumbnail-image card-img"/></p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
-Potential Graduates: We can reform our academic system.
+Kanisa | Imani | Tafsiri ya maudhui ya Sala ya Bwana.
 </h5>
 <div class="listing-reading-time card-text text-muted">
-8 min
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('social'); return false;">
-social
-</div>
-</div>
-<div class="card-text listing-description">
-Pupils are normally trained under the supervision of teachers and in some environments by the guardian of matrons and patrons. Pupils begin their studies at standard one to…
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-Benjamini Mpinga
-</div>
-<div class="listing-date">
-Mar 26, 2023
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="5" data-categories="faith" data-listing-date-sort="1679259600000" data-listing-file-modified-sort="1680559648370" data-listing-reading-time-sort="22.62">
-<a href="./posts/Kanisa_2/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img src="./posts/Kanisa_2/forener1.jpg" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Tafsiri Potofu: Jinsi huduma takatifu zimegeuzwa kuwa sanamu.
-</h5>
-<div class="listing-reading-time card-text text-muted">
-22 min
+17 min
 </div>
 <div class="listing-categories">
 <div class="listing-category" onclick="window.quartoListingCategory('faith'); return false;">
@@ -420,11 +441,11 @@ faith
 </div>
 </div>
 <div class="card-text listing-description">
-Yatupasa kumwamini na kumshukuru Mungu mmoja kwa upendo wake kwetu, kwa kumtoa mwanaye mpendwa Yesu Kristo kama sadaka ya upatanisho kati yake na sisi wenye dhambi.…
+Neno “kanisa” limekuwa lenye umaarufu mkubwa na maarufu sana miongoni mwa watu. Umaarufu huu umezidi kuenea na kujikita zaidi katika maisha ya watu, na sasa limetoka katika…
 </div>
 <div class="card-attribution card-text-small justify">
 <div class="listing-author">
-Benjamini Mpinga
+Benjami Mpinga
 </div>
 <div class="listing-date">
 Mar 20, 2023
@@ -434,51 +455,16 @@ Mar 20, 2023
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="6" data-categories="social" data-listing-date-sort="1679259600000" data-listing-file-modified-sort="1680560167126" data-listing-reading-time-sort="10.91">
-<a href="./posts/mahusiano/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img src="./posts/mahusiano/family1.jpg" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Pambanua Mahusiano yako: zitambue tabia za watu katika maisha yako.
-</h5>
-<div class="listing-reading-time card-text text-muted">
-10 min
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('social'); return false;">
-social
-</div>
-</div>
-<div class="card-text listing-description">
-Mahusiano kwa tafsiri ya jumla ni mfumo wa maingiliano ya viumbe hapa ulimwenguni, yanaweza kuwa maingiliano kati ya watu na mazingira, au wanyama na mazingira. Lakini haswa…
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-Benjamini Mpinga
-</div>
-<div class="listing-date">
-Mar 20, 2023
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="7" data-categories="faith" data-listing-date-sort="1679086800000" data-listing-file-modified-sort="1679756935793" data-listing-reading-time-sort="4.525">
+<div class="g-col-1" data-index="7" data-categories="faith" data-listing-date-sort="1679259600000" data-listing-file-modified-sort="1685987115333" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6">
 <a href="./posts/suluhuyadini/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img src="./posts/suluhuyadini/rock.jpg" class="thumbnail-image card-img" style="height: 150px;">
-</p>
+<p class="card-img-top"><img src="posts\suluhuyadini\rock.jpg" style="height: 150px;"  class="thumbnail-image card-img"/></p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
 Suluhisho la Imani za dini: hatua za masuluhisho ya migongano ya kiimani.
 </h5>
 <div class="listing-reading-time card-text text-muted">
-4 min
+6 min
 </div>
 <div class="listing-categories">
 <div class="listing-category" onclick="window.quartoListingCategory('faith'); return false;">
@@ -486,7 +472,38 @@ faith
 </div>
 </div>
 <div class="card-text listing-description">
-Imani za dini zimepita katika vipindi tofauti tofauti katika kuzisimika na kuendelea kutanua wigo wa waamini wa. Wengine wakiwa wamepitia mateso ya kufungwa, wengine…
+Historia ya imani za dini imejumuisha vipindi mbalimbali ambapo imani hizo zimeshindwa na kupata mafanikio katika kuenea na kuheshimiwa na jamii. Baadhi ya watu wamepitia…
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Benjamini Mpinga
+</div>
+<div class="listing-date">
+Mar 20, 2023
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="8" data-categories="social" data-listing-date-sort="1679086800000" data-listing-file-modified-sort="1686123109781" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="9">
+<a href="./posts/mahusiano/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top"><img src="posts\mahusiano\family1.jpg" style="height: 150px;"  class="thumbnail-image card-img"/></p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Pambanua Mahusiano yako: zitambue tabia za watu katika maisha yako.
+</h5>
+<div class="listing-reading-time card-text text-muted">
+9 min
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('social'); return false;">
+social
+</div>
+</div>
+<div class="card-text listing-description">
+Makala yangu inayoitwa “Makundi ya Tabia za Wanadamu” inalenga kuwapa ufahamu wa jumla kuhusu mahusiano ya tabia za watu na jinsi ya kuyatambua. Natumaini umeweza kuipitia…
 </div>
 <div class="card-attribution card-text-small justify">
 <div class="listing-author">
@@ -500,18 +517,47 @@ Mar 18, 2023
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="8" data-categories="faith" data-listing-date-sort="1677445200000" data-listing-file-modified-sort="1680027971341" data-listing-reading-time-sort="27.23">
+<div class="g-col-1" data-index="9" data-categories="faith" data-listing-date-sort="1677618000000" data-listing-file-modified-sort="1686759653013" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="15">
+<a href="./posts/The-living-hope/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top"><img src="posts\The-living-hope\family_babtism1.jpg" style="height: 150px;"  class="thumbnail-image card-img"/></p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Upekee wa Yesu Kristo: Je, asili ya Yesu ni mwanadamu au Mungu?
+</h5>
+<div class="listing-reading-time card-text text-muted">
+15 min
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('faith'); return false;">
+faith
+</div>
+</div>
+<div class="card-text listing-description">
+Yesu Kristo ni mada muhimu na ya kuvutia kwa watu wengi, kwa sababu yeye ni kiini cha imani ya Ukristo duniani kote. Kuna utata na mjadala miongoni mwa watu kuhusu…
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Benjamini Mpinga
+</div>
+<div class="listing-date">
+Mar 1, 2023
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="10" data-categories="faith" data-listing-date-sort="1677445200000" data-listing-file-modified-sort="1680027971341" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="28">
 <a href="./posts/salvation/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img src="./posts/salvation/control-.jpg" class="thumbnail-image card-img" style="height: 150px;">
-</p>
+<p class="card-img-top"><img src="posts\salvation\control-.jpg" style="height: 150px;"  class="thumbnail-image card-img"/></p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
 Toba + Imani + Roho mtakatifu + subira = Wokovu.
 </h5>
 <div class="listing-reading-time card-text text-muted">
-27 min
+28 min
 </div>
 <div class="listing-categories">
 <div class="listing-category" onclick="window.quartoListingCategory('faith'); return false;">
@@ -533,18 +579,16 @@ Feb 27, 2023
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="9" data-categories="faith" data-listing-date-sort="1677272400000" data-listing-file-modified-sort="1680559557606" data-listing-reading-time-sort="13.96">
-<a href="./posts/church/index.html" class="quarto-grid-link">
+<div class="g-col-1" data-index="11" data-categories="faith" data-listing-date-sort="1677272400000" data-listing-file-modified-sort="1686125431665" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="12">
+<a href="./posts/Kanisa_2/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img src="./posts/church/tample.jpg" class="thumbnail-image card-img" style="height: 150px;">
-</p>
+<p class="card-img-top"><img src="posts\Kanisa_2\tample.jpg" style="height: 150px;"  class="thumbnail-image card-img"/></p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
-Kanisa | Imani | Sala ya Bwana: Makosa ya tafsiri ya mafundisho ya dini.
+Tafsiri Potofu: Jinsi huduma takatifu zimegeuzwa kuwa sanamu.
 </h5>
 <div class="listing-reading-time card-text text-muted">
-13 min
+12 min
 </div>
 <div class="listing-categories">
 <div class="listing-category" onclick="window.quartoListingCategory('faith'); return false;">
@@ -552,11 +596,11 @@ faith
 </div>
 </div>
 <div class="card-text listing-description">
-Neno Kanisa limekua neno kubwa na maarufu sana miongoni mwa watu. Pamoja na umaarufu wake halijaishia kuwa neno pekee, bali limeenda mbali zaidi na kuwa dhana ya maisha ya…
+Ni muhimu sana kuweka imani na shukrani zetu kwa Mungu mmoja kwa sababu ya upendo wake kwetu. Tumebarikiwa kwa kujitoa kwake Yesu Kristo, ambaye alikuwa sadaka ya upatanisho…
 </div>
 <div class="card-attribution card-text-small justify">
 <div class="listing-author">
-Benjami Mpinga
+Benjamini Mpinga
 </div>
 <div class="listing-date">
 Feb 25, 2023
@@ -566,26 +610,24 @@ Feb 25, 2023
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="10" data-categories="faith" data-listing-date-sort="1676840400000" data-listing-file-modified-sort="1679758314686" data-listing-reading-time-sort="33.45">
-<a href="./posts/revelation/index.html" class="quarto-grid-link">
+<div class="g-col-1" data-index="12" data-categories="social" data-listing-date-sort="1676840400000" data-listing-file-modified-sort="1686124496413" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5">
+<a href="./posts/kisa-cha-bedui/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img src="./posts/revelation/lastdays.jpg" class="thumbnail-image card-img" style="height: 150px;">
-</p>
+<p class="card-img-top"><img src="posts\kisa-cha-bedui\horse-parable.jpg" style="height: 150px;"  class="thumbnail-image card-img"/></p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
-Kitabu cha Ufunuo: Zawadi ya Mungu Baba kwa watakatifu wake.
+Bedui na Farasi wake: Heshimu maono, na usivutwe na Mitizamo ya nje.
 </h5>
 <div class="listing-reading-time card-text text-muted">
-33 min
+5 min
 </div>
 <div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('faith'); return false;">
-faith
+<div class="listing-category" onclick="window.quartoListingCategory('social'); return false;">
+social
 </div>
 </div>
 <div class="card-text listing-description">
-Watu wengi katika kizazi cha kale na hata kizazi cha sasa, tunayo mawazo yetu mazuri tuliyonayo juu ya Mungu, kwa bahati nzuri mawazo hayo hayajatokana na kiburi au ujinga…
+Umetakiwa kuwa mwangalifu na kufuatilia maono yako kutoka ndani yako na sio kushawishiwa na mawazo ya watu wengine. Lazima ukumbuke njia uliyopitia hadi sasa na uchukue…
 </div>
 <div class="card-attribution card-text-small justify">
 <div class="listing-author">
@@ -599,18 +641,16 @@ Feb 20, 2023
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="11" data-categories="social" data-listing-date-sort="1676667600000" data-listing-file-modified-sort="1679758902760" data-listing-reading-time-sort="3.185">
+<div class="g-col-1" data-index="13" data-categories="social" data-listing-date-sort="1676667600000" data-listing-file-modified-sort="1686125015120" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5">
 <a href="./posts/kingdom/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img src="./posts/kingdom/angelcage.jpg" class="thumbnail-image card-img" style="height: 150px;">
-</p>
+<p class="card-img-top"><img src="posts\kingdom\angelcage.jpg" style="height: 150px;"  class="thumbnail-image card-img"/></p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
 The kingdom: In a republic of fools it is wrong to act wise.
 </h5>
 <div class="listing-reading-time card-text text-muted">
-3 min
+5 min
 </div>
 <div class="listing-categories">
 <div class="listing-category" onclick="window.quartoListingCategory('social'); return false;">
@@ -618,7 +658,7 @@ social
 </div>
 </div>
 <div class="card-text listing-description">
-Abdul went to a kingdom of fools, after staying for sometimes, he wanted to reveal their foolishness, then he made a small cage of a dove size, then he announced to his…
+Abdul ventured into a kingdom filled with foolish individuals. After spending some time there, he grew determined to expose their lack of wisdom. With a cunning plan in…
 </div>
 <div class="card-attribution card-text-small justify">
 <div class="listing-author">
@@ -632,18 +672,16 @@ Feb 18, 2023
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="12" data-categories="social" data-listing-date-sort="1676494800000" data-listing-file-modified-sort="1679760625601" data-listing-reading-time-sort="1.51">
+<div class="g-col-1" data-index="14" data-categories="social" data-listing-date-sort="1676494800000" data-listing-file-modified-sort="1686759896583" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2">
 <a href="./posts/wildnessjourney/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img src="./posts/wildnessjourney/cowboyhorse.jpg" class="thumbnail-image card-img" style="height: 150px;">
-</p>
+<p class="card-img-top"><img src="posts\wildnessjourney\cowboyhorse.jpg" style="height: 150px;"  class="thumbnail-image card-img"/></p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
 A cow boy’s horse: sometimes, Even a Horse can be logical than a man.
 </h5>
 <div class="listing-reading-time card-text text-muted">
-1 min
+2 min
 </div>
 <div class="listing-categories">
 <div class="listing-category" onclick="window.quartoListingCategory('social'); return false;">
@@ -651,7 +689,7 @@ social
 </div>
 </div>
 <div class="card-text listing-description">
-A cowboy went to a journey with his horse, he went out to collect a treasury, he crossed mountains and rivers, deserts and shrub land. As he was continue with his trip, very…
+The cowboy embarked on a journey alongside his trusty horse, venturing out in search of a valuable treasure. Throughout his expedition, he braved the challenges of crossing…
 </div>
 <div class="card-attribution card-text-small justify">
 <div class="listing-author">
@@ -665,18 +703,16 @@ Feb 16, 2023
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="13" data-categories="social" data-listing-date-sort="1676149200000" data-listing-file-modified-sort="1679758922235" data-listing-reading-time-sort="2.08">
+<div class="g-col-1" data-index="15" data-categories="social" data-listing-date-sort="1676149200000" data-listing-file-modified-sort="1685522925708" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4">
 <a href="./posts/axes/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img src="./posts/axes/kitonga1.jpg" class="thumbnail-image card-img" style="height: 150px;">
-</p>
+<p class="card-img-top"><img src="posts\axes\kitonga1.jpg" style="height: 150px;"  class="thumbnail-image card-img"/></p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
 Axe’s deception: A devided society can never realize its potential.
 </h5>
 <div class="listing-reading-time card-text text-muted">
-2 min
+4 min
 </div>
 <div class="listing-categories">
 <div class="listing-category" onclick="window.quartoListingCategory('social'); return false;">
@@ -684,7 +720,7 @@ social
 </div>
 </div>
 <div class="card-text listing-description">
-An axis entered to a forest and made friendship with tree, for an axis was very brave to deceived the tree’s stem that, My handle is made up by one of your own. For that…
+An axe infiltrated a forest and formed a friendship with a tree by cleverly convincing the tree that its handle was made from one of its own branches. The trusting tree…
 </div>
 <div class="card-attribution card-text-small justify">
 <div class="listing-author">
@@ -698,18 +734,16 @@ Feb 12, 2023
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="14" data-categories="social" data-listing-date-sort="1675976400000" data-listing-file-modified-sort="1679759052726" data-listing-reading-time-sort="2.265">
+<div class="g-col-1" data-index="16" data-categories="social" data-listing-date-sort="1675976400000" data-listing-file-modified-sort="1686125646349" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3">
 <a href="./posts/farmer/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img src="./posts/farmer/traditional.jpg" class="thumbnail-image card-img" style="height: 150px;">
-</p>
+<p class="card-img-top"><img src="posts\farmer\traditional.jpg" style="height: 150px;"  class="thumbnail-image card-img"/></p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
-A farmer: not every animal is made to keep.
+Nature shall always remain nature: it can be shaped but not replaced.
 </h5>
 <div class="listing-reading-time card-text text-muted">
-2 min
+3 min
 </div>
 <div class="listing-categories">
 <div class="listing-category" onclick="window.quartoListingCategory('social'); return false;">
@@ -717,7 +751,7 @@ social
 </div>
 </div>
 <div class="card-text listing-description">
-A farmer went to the wildness to hunt, and he found non incubated Eagle’s egg, he also captured a very little monkey, he decided to bring an egg to his chicken farm to…
+The farmer ventured into the wilderness for hunting and stumbled upon an unincubated eagle’s egg. Along with that, he managed to capture a small monkey. With the intention…
 </div>
 <div class="card-attribution card-text-small justify">
 <div class="listing-author">
@@ -731,18 +765,16 @@ Feb 10, 2023
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="15" data-categories="social" data-listing-date-sort="1675803600000" data-listing-file-modified-sort="1679760040628" data-listing-reading-time-sort="1.97">
+<div class="g-col-1" data-index="17" data-categories="social" data-listing-date-sort="1675803600000" data-listing-file-modified-sort="1685785169984" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3">
 <a href="./posts/deception/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img src="./posts/deception/artface3.jpg" class="thumbnail-image card-img" style="height: 150px;">
-</p>
+<p class="card-img-top"><img src="posts\deception\artface3.jpg" style="height: 150px;"  class="thumbnail-image card-img"/></p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
 The story of Ancient greek: what do we learn?
 </h5>
 <div class="listing-reading-time card-text text-muted">
-1 min
+3 min
 </div>
 <div class="listing-categories">
 <div class="listing-category" onclick="window.quartoListingCategory('social'); return false;">
@@ -750,7 +782,7 @@ social
 </div>
 </div>
 <div class="card-text listing-description">
-Story is tailed by an ancient book from Greece, the story begins with a Prophecy to the King, By the oracle of Apollo, on how a king’s son will kill his father and marry his…
+Once upon a time in ancient Greece, a gripping tale unraveled in ancient book on a prophecy to the King. The oracle of Apollo delivered a chilling prediction that the King’s…
 </div>
 <div class="card-attribution card-text-small justify">
 <div class="listing-author">
@@ -764,12 +796,10 @@ Feb 8, 2023
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="16" data-categories="faith" data-listing-date-sort="1674853200000" data-listing-file-modified-sort="1679055273843" data-listing-reading-time-sort="8.91">
+<div class="g-col-1" data-index="18" data-categories="faith" data-listing-date-sort="1674853200000" data-listing-file-modified-sort="1686119385109" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="8">
 <a href="./posts/scriptures/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img src="./posts/scriptures/bible.jpg" class="thumbnail-image card-img" style="height: 150px;">
-</p>
+<p class="card-img-top"><img data-src="posts\scriptures\bible.jpg" style="height: 150px;"  class="thumbnail-image card-img"/></p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
 Maandiko: Maandiko pasipo ufunuo ni mauti.
@@ -783,7 +813,7 @@ faith
 </div>
 </div>
 <div class="card-text listing-description">
-Katika maandiko ya Biblia ni mara nyingi usomapo utakutana na maneno kadha wa kadha ambayo unaweza ukawa unapata tahayari kidogo kwa sababu ya kutokuyafasiri ipasavyo. Watu…
+Kuna maneno mengi katika Maandiko Matakatifu ambayo yanaweza kuwafanya watu wapate tahayari kidogo wanaposoma, kwa sababu ya kutokuyafasiri ipasavyo. Watu wengi hawasomi…
 </div>
 <div class="card-attribution card-text-small justify">
 <div class="listing-author">
@@ -797,43 +827,13 @@ Jan 28, 2023
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="17" data-categories="faith" data-listing-date-sort="1672520400000" data-listing-file-modified-sort="1679752328496" data-listing-reading-time-sort="4.57">
-<a href="./posts/The-living-hope/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img src="./posts/The-living-hope/kitonga1.jpg" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Upekee wa Yesu Kristo: Je, tuweke Imani kwa Yesu au kwenye Dini?
-</h5>
-<div class="listing-reading-time card-text text-muted">
-4 min
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('faith'); return false;">
-faith
-</div>
-</div>
-<div class="card-text listing-description">
-MAKALA HII HAIJAMALIZIKA MAUDHUI YAKE, TAFADHALI TEMBELEA UKURASA HUUWAKATI MWINGINE.
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-Benjamini Mpinga
-</div>
-<div class="listing-date">
-Jan 1, 2023
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
 </div>
 <div class="listing-no-matching d-none">
 No matching items
 </div>
+<nav id="listing-pagination" class="listing-pagination" aria-label="Page Navigation">
+  <ul class="pagination"></ul>
+</nav>
 </div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
@@ -977,9 +977,23 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     icon: icon
   };
   anchorJS.add('.anchored');
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
   const clipboard = new window.ClipboardJS('.code-copy-button', {
-    target: function(trigger) {
-      return trigger.previousElementSibling;
+    text: function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
     }
   });
   clipboard.on('success', function(e) {
@@ -1044,6 +1058,92 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       return note.innerHTML;
     });
   }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
   const findCites = (el) => {
     const parentEl = el.parentElement;
     if (parentEl) {
@@ -1086,7 +1186,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </div> <!-- /content -->
 <footer class="footer">
   <div class="nav-footer">
-      <div class="nav-footer-center"><div class="cookie-consent-footer"><a href="#" id="open_preferences_center">Cookie Preferences</a></div></div>
+    <div class="nav-footer-left">
+      &nbsp;
+    </div>   
+    <div class="nav-footer-center"><div class="cookie-consent-footer"><a href="#" id="open_preferences_center">Cookie Preferences</a></div></div>
+    <div class="nav-footer-right">
+      &nbsp;
+    </div>
   </div>
 </footer>
 

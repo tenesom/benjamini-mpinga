@@ -8,7 +8,7 @@ website:
   description: "Coding for all for better today and tommorow"
   
   navbar:
-      background: "darkblue"
+      background: "#1C7D97"
       right:
         - text: Posts
           href: blog.qmd 
@@ -16,8 +16,8 @@ website:
           href: https://github.com/tenesom/
         - icon: twitter
           href: https://twitter.com/benjamini20
-        - icon: facebook
-          href: https://www.facebook.com/benjamini.mpinga?mibextid=ZbWKwL
+        - icon: linkedin
+          href: http://www.linkedin.com/in/benjamini-mpinga
         - icon: tiktok
           href: https://www.tiktok.com/@mstandrew7?_t=8aghm52NTok&_r=1
         - icon: youtube
@@ -48,7 +48,7 @@ website:
   twitter-card: 
     image: thumbnail_blog.png
     card-style: summary_large_image
-    creator: "@rappa753"
+    creator: "benjamini@"
   
 # filters:
 #   - code-filename

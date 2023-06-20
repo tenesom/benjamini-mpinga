@@ -6,16 +6,25 @@ categories: [social]
 ---
 ### Cowboys's Horse.
 
-A cowboy went to a journey with his horse, he went out to collect a treasury, he crossed mountains and rivers, deserts and shrub land. As he was continue with his trip, very close to reach his destination. He had to cross the thick forest before, as he was at the mid of the forest. He decided to go back and wait until the rain is over so that the Forrest may turn dry, and will be easy to see far. Trees were tall, so he couldn't see very far from where he stood.
+::: columns
+:::: {.column width="50%"}
+
+The cowboy embarked on a journey alongside his trusty horse, venturing out in search of a valuable treasure. Throughout his expedition, he braved the challenges of crossing mountains, rivers, deserts, and shrublands. However, as he neared his destination, he encountered a dense forest. Realizing the limited visibility due to the towering trees, he made the decision to turn back and patiently await the conclusion of the rain. His intention was to wait for the forest to dry up, enabling him to have a clearer view of the surroundings and facilitate his progress.
+
+:::
+:::: {.column width="50%"}
 
 ![](cowboyhorse.jpg)
 
-He stooped for a moment to sort out what to do, then he decided to get back home, as he was turning back a horse, then the Horse ask his master a question, **"Where are we going, why are you turning back.?"** the master replied **"We must go back because i can't see very far, the forest is thick."** then the Horse asked him **"Can you see your next step.?"** **"Yes i can"** he replied. Then the horse said to him **"Then focus on your next step you can see, instead of your destination."**
+::: 
+:::: 
+
+Pausing for a moment to ponder his options, the cowboy ultimately resolved to return home. Just as he was retracing his steps, his horse inquired, "Where are we headed, and why are we turning back?" The cowboy responded, "We must go back because the thick forest limits my visibility, and I can't see far ahead." Curious, the horse posed another question, "Can you see your next step, though?" "Yes, I can," the cowboy affirmed. In turn, the horse advised him, "Then concentrate on each step you can perceive rather than fixating solely on your final destination."
 
 ### Power of the process
 
-Focus much on the next step you see, it's much better to step on what you are sure of, then to what you just expect in your own thought. Expectation always disappoint but process always comfort.
+It is crucial to emphasize the significance of the immediate step that lies before you. Placing your focus on what you are certain of, rather than solely relying on anticipated outcomes, is a more reliable approach. Expectations often lead to disappointment, while embracing the process brings comfort.
 
-In life we often focus on the destination instead of focusing on the journey, we mostly reach very close to our success destination, but because along the way we find a great obstacle, we tend mostly to start over with another way, instead of facing the obstacle with a different strategy. We are taught by the Horse that, if we want to succeed whatever mission we have, then we should **enjoy the journey rather than the destination.**
+In life, we frequently fixate on reaching our ultimate destination, disregarding the value of the journey itself. As we approach the threshold of success, we may encounter formidable obstacles. Instead of confronting these challenges with a fresh strategy, we often choose to start anew, seeking alternative paths. The wisdom imparted by the Horse reminds us that true success lies in finding joy throughout the journey, rather than fixating solely on the final destination.
 
 

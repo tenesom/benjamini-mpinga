@@ -1,38 +1,89 @@
 ---
-title: "Bedui na Farasi wake: Heshimu Msukumo wa maono, na usivutwe na Mitizamo ya nje."
+title: "Bedui na Farasi wake: Heshimu maono, na usivutwe na Mitizamo ya nje."
 author: "Benjamini Mpinga"
-date: "2023-04-05"
+date: "2023-02-20"
 categories: [social]
 ---
 
-Sukumwa na maono kutoka ndani na usivutwe na mitazo ya nje pekee. Zikumbuke njia zako ulizopita, kisha fanya maamuzi kwa kuzingatia uhalisia wa safari yako ya maisha na sio kufuata mitizamo ya watu wanaokujaji kutokana na vile wanavyokuona kwa sasa. Wewe ndiye uliyebeba maona ya safari ya maisha yako, na wewe ndiye unayejua umbali uliotoka na umbali uliobaki kufikia maono yako, pamoja na maamuzi uliyoyachukua kufika hapo ulipo. Hivyo inakupasa kuheshimu Msukumo kutoka ndani yani yako na sio kuvutwa na mitizamo ya wengine tuu ya vile ulivyo au vile unavyofanya.
+Umetakiwa kuwa mwangalifu na kufuatilia maono yako kutoka ndani yako na sio kushawishiwa na mawazo ya watu wengine. Lazima ukumbuke njia uliyopitia hadi sasa na uchukue maamuzi kulingana na ukweli wa safari yako ya maisha badala ya kufuata maoni ya watu ambao wanakuona kwa wakati huu. Wewe pekee ndiye unayejua malengo yako na umbali uliopita, pamoja na jinsi ulivyofanya maamuzi kufikia mahali ulipo sasa. Hivyo, ni muhimu kuheshimu ndani yako na kusikiliza hisia zako binafsi badala ya kuathiriwa na mitazamo ya wengine juu ya wewe ni nani au jinsi unavyoendelea.
 
-![](horse-parable.jpg)
 ### Mtoto juu ya farasi.
 
-Bedui alimchukua mmwanawe wa Kiume kuambatana naye katika safari ya mbali, lengo la Bedui ilikuwa kumfundisha mwanawe namna ambavyo mitizamo ya wanadamu haipaswi kumbadilisha Maono yake yanayomsukuma kuyafikia. Hivyo alimuandaa farasi wake pamoja na maji na chakula cha kuwatosha kwa kutwa nzima watakayoitumia safarini. Beduia alianza kwa kumpandisha mwanawe kwenye farasi na yeye mwenyewe akatembea kwa miguu.
+::: columns
+:::: {.column width="50%"}
 
-Walitembea mwendo wa saa moja na kupishana na watu wengi, Miongoni mwa watu wakamwambia Bedui, "Yawezekanaje wewe mtu mzima kutendea kwa Miguu wakati umri wao umekwenda, kisha kumuacha mwana mwenye nguvu kumpanda farasi?" Bedui alilazimaika kuwaambia "Safari tunayokwenda ni ndefu na mtoto hatoweza kuhimili uchovu." Wale watu wakasema "Unamdekeza Mtoto na hatokuwa mkakamavu atakapokuwa kijana." Kisha baada ya kulipita kundi hili la watu, Bedui akamwambia mwanawe "Hao ndio wanadamu wazoee na uishi nao kwa Msukumo wa maono yaliyo ndani yako na sio mitizamo yao juu yako."
+![](horse-parable.jpg)
+Bedui alimchukua mwanawe wa kiume kwenye safari ndefu 
+::: 
+:::: {.column width="50%"}
+
+Ili kumfundisha kwamba maoni ya watu hayapaswi kubadilisha malengo yake. Kabla ya safari
+Bedui aliandaa farasi na akahakikisha wana chakula na maji kwa ajili ya safarini yao nzima. Bedui alianza kwa kumpandisha mwanae kwenye farasi na yeye mwenyewe akaamua kutembea kwa miguu. Walitembea kwa saa moja na kukutana na watu wengi njiani. Baadhi ya watu walimwambia Bedui, "Kwa nini wewe kama mtu mzima unatembea kwa miguu wakati unaweza kuwa umepanda farasi, na kumwacha mwanao mwenye nguvu aendelee kumpanda?" Bedui alijibu, "Safari yetu ni ndefu na mtoto hawezi kuhimili uchovu." Watu hao walisema, "Unamletea mtoto vibaya na hatakuwa na ukakamavu atakapokuwa mkubwa." Baada ya kuwaacha watu hao nyuma, Bedui alimwambia mwanae, "Hao ndio watu, zoea kuishi nao kwa msukumo wa maono yako na sio mitazamo yao kukuhusu."
+
+::: 
+:::: 
 
 ### Bedui juu ya Farasi.
 
-Kisha Bedui akamwambia mwanawe shuka kutoka kweny Farasi, nami nitampanda ili tuendelee na somo letu. Wakasonga mbele na kukutana na kundi lingine la watu, Nao walipomuona mtoto anatembea na baba kampanda Farasi, nao wakasema, "Tazama umekosa huruma na mwanao mwenyewe, yawezekanaje Baba kumpanda Farasi na mtoto kutembea kwa miguu?" Bedui akawajibu akawaambia "Tunampanda kwa zamu kwa sababu safari ni ndefu nasi hatutaweza kuhimili uchovu" Watu wale nao wakamwambia "wewe umeshapumzika vya kutosha. mwache mtoto naye ampande farasi muendelee na safari". Kisha baada ya kulipita kundi hili la watu, Bedui akamwambia mwanawe "Hao ndio wanadamu wazoee na uishi nao kwa Msukumo wa maono yaliyo ndani yako na sio mitizamo yao juu yako."
+::: columns
+:::: {.column width="50%"}
+
+Bedui kisha alimwambia mwanawe ashuke kutoka kwenye farasi na yeye mwenyewe akampanda ili waendelee na somo lao. Walisonga mbele na wakakutana na kundi lingine la watu. Walipoona kwamba mtoto anatembea na baba yake amepanda farasi, walitoa maoni, "Una ukosefu wa huruma kwa mwanao mwenyewe. Baba anapanda farasi na mtoto anatembea kwa miguu? Hii inawezekanaje?" Bedui alijibu na kuwaambia, "Tunapanda kwa zamu kwa sababu safari ni ndefu na hatuwezi kuhimili uchovu wote. " Watu hao wakamwambia, "Umepumzika vya kutosha, mpe mtoto nafasi ya kupanda farasi ili muendelee na safari."
+
+::: 
+:::: {.column width="50%"}
+
+Baada ya kuwaacha watu hao nyuma, Bedui akamwambia mwanae, "Hao ndio watu, zoea kuishi nao kwa msukumo wa maono yako na sio mitazamo yao kukuhusu."
 
 ![](dadhorse.jpg)
 
+::: 
+:::: 
+
+::: columns
+:::: {.column width="50%"}
+
 ### Bedui na mwanawe juu ya Farasi.
 
-Kisha Bedui, akamwambia mwanawe, Panda juu ya farasi tukae sote, Mwanawe akampanda Farasi wote wawili juu ya Farasi wakaendelea na safari yao. Kisha wakalifikia kundi la tatu, nao wakawaambia "Hakika wanadamu wamekosa hisani hata kwa wanyama, yawezekanaje Baba na Mtoto kumpanda Farasi mmoja?" Bedui akawajibu akwaambia "Safari tunayokwenda ni mbali nasi tumechoka hivyo tumempanda ili kupunguza uchovu." wale watu wakamjibu wakasema "Mnamtesa Mnyama huyu, ni  heri mngempanda mmoja mmoja kwa zamu." Kisha baada ya kulipita kundi hili la watu, Bedui akamwambia mwanawe "Hao ndio wanadamu wazoee na uishi nao kwa Msukumo wa maono yaliyo ndani yako na sio mitizamo yao juu yako."
+Kisha Bedui akamwambia mwanawe, "Panda juu ya farasi, tukae wote." Mwanawe akampanda farasi na wote wawili wakasafiri pamoja. Walipofika kwenye kundi lingine, watu hao wakawauliza, "Kwa hakika watu hawana huruma hata kwa wanyama. Inawezekanaje baba na mtoto kumpanda farasi mmoja?" Bedui akawajibu, "Safari yetu ni ndefu na tumechoka, hivyo tumempanda ili kupunguza uchovu." Watu hao wakamjibu, "Mnatesa mnyama huyu. Ingekuwa bora kumpanda mmoja baada ya mwingine kwa zamu." Baada ya kuwaacha watu hao nyuma, Bedui akamwambia mwanawe, "Hao ndio wanadamu. Zoea kuishi nao kwa msukumo wa maono yako na sio mitazamo yao kukuhusu."
+
+::: 
+:::: {.column width="50%"}
 
 ### Farasi peke yake.
 
-Kisha baada ya hapo Bedui akamwambia mwanawe sisi sote tusheke kutoka kwenye farasi na tutatemea kwa miguu, nao wote wawioi wakateremka na kutembea mwendo mrefu kiasi, nao wakakutana na kundi lingine la watu, nao wale watu wakawaaambia, "Hakika ninyi mmekosa hekima, yawezakanaje mnatembea kwa miguu ikhali mnae mnyama wa kumpanda?" Bedui akawaambia "Safari tuliyonayo ni ndefu nasi tumeona mnyama huyu atachoka sana hivyo tumeona tumpumzishe" wale watu wakamwambia "Bora farasi afe ile mzigo wa bwana wake ufike, ni heri achoke farasi kuliko mjichosha ninyi," Kisha baada ya kulipita kundi hili la watu, Bedui akamwambia mwanawe "Hao ndio wanadamu wazoee na uishi nao kwa Msukumo wa maono yaliyo ndani yako na sio mitizamo yao juu yako."
+Kisha Bedui akamwambia mwanawe, "Tuteremke wote kutoka kwenye farasi na tuendelee kwa kutembea kwa miguu." Nao wote wawili wakateremka na kuanza kutembea kwa miguu. Walipokutana na kundi lingine la watu, watu hao wakawauliza, "Kwa hakika nyinyi hamna hekima. Mnawezaje kutembea kwa miguu huku mkiwa na farasi wa kuwapanda?" Bedui akawaambia, "Safari yetu ni ndefu na tumeona kwamba farasi huyu atachoka sana. Hivyo, tumeamua kumpumzisha." Watu hao wakamjibu, "Ingekuwa bora farasi afe lakini mzigo wa bwana wake ufike. Baada ya kuwaacha watu hao nyuma, Bedui akamwambia mwanawe, "Hao ndio wanadamu. Zoea kuishi nao kwa msukumo wa maono yako na sio mitazamo yao kukuhusu."
 
-### Funzo.
+::: 
+:::: 
 
-Katika maisha yetu tunapitia hatua mbalimbali za ukuaji na maendeleo binafsi, katika hatua zote hizo tunakutana na kuishi na watu wa aina na kaliba mbalimbali. Katika kuchandamana na watu, tunapaswa kuwa makini sana na mawazo yao juu ya mambo tunayoyafanya au juu ya sisi wenyewe. Hii ni kutokana na ukwweli kwamba, hatua zetu zote tunazijua sisi wenyewe, kwa sababu toka siku umejitambua hadi hapo ulipofikia, umeoita hatua kadhaa. Hivyo haipaswi kufuata mawazo ya watu wengine wanaotuona katika hatua moja pekee nao wasijue kwamba maamuzi unayoyachukua yanatokana na hatua ulizopita huko nyuma kabla ya kukutana nao.
+### Funzo/somo kwenye makala hii.
 
-Wengi wetu pia tumekuwa tukipenda kufuata mawazo ya wengine kwa sababu tu wamefanikiwa katika njia zao, lakini tunapozijaribu mara nyingi tunafeli na tunaanza kuwatupia lawama wengine au kuwasemea vibaya, wengine wanawashutumu watu kwamba wanafanikiwa kwa uchawi au wizi au ukahaba au utapeli na wakati mwingine tunaamini kwamba aidha hatuna bahati au tumefanyiwa mambo ya kishirikina ili tusifanikiwe. 
+Katika safari ya maisha, ni muhimu sana kujikita katika maono yako na kuepuka kushawishika na mitazamo ya watu wengine. Hapa kuna mtiririko mzuri wa hatua za kufuata: **Sukumwa na maono kutoka ndani:** Anza kwa kuangalia ndani yako na kutafakari kuhusu ndoto na malengo yako. Jiulize ni nini hasa unachotamani kufikia na ni jinsi gani unaweza kujenga maisha yenye maana kwako.
 
-Lakini ukweli ni kwamba, wengi wetu tunavutwa zaidi kuyafanya mambo kwa sababu wengine waliyafanya wakafanikiwa au wanasema kwamba yanafanikisha. Jambo hilo linamaaanisha kwamba, umeacha kufuata maono yako ya ndani na kuvutwa na mitizamo ya wengine.Kiongozi wa kweli havutwi na mitizamo ya nje pekee bali anasukumwa na Maono kutoka ndani.
+::: columns
+:::: {.column width="33.3%"}
+
+**Kumbuka njia uliyopita:** Angalia nyuma na utambue hatua ulizochukua mpaka sasa. Jitathmini kwa makini uzoefu wako, mafanikio yako, na changamoto ulizokabiliana nazo. Njia hii itakusaidia kujifunza kutokana na uzoefu wako na kuwa na msingi imara wa maamuzi yako ya baadaye.
+
+::: 
+:::: {.column width="33.3%"}
+
+**Fanya maamuzi kwa kuzingatia uhalisia:** Wakati wa kufanya maamuzi, weka akili yako katika uhalisia wa hali ya sasa. Angalia uwezo wako wa kutekeleza maono yako. Kuwa mkweli wewe mwenyewe kuhusu changamoto na vikwazo vinavyoweza kujitokeza, lakini pia kuwa na ujasiri wa kuchukua hatua za kukabiliana na hali hizo.
+
+:::
+:::: {.column width="33.3%"}
+
+**Epuka kufuata mitazamo ya wengine:** Usiache maamuzi yako yawe chini ya ushawishi wa watu wengine ambao wanaweza kuwa na maoni tofauti na yako. Tathmini maoni yao kwa umakini, lakini mwisho wa siku, wewe ndiye unayejua vema njia yako na malengo yako ya kibinafsi.
+
+::: 
+:::: 
+
+**Heshimu msukumo kutoka ndani yako:** Jisikie huru kusikiliza ndani yako, kwa kuwa huko ndiko maono yako na dira yako ya maisha ilipo. Weka nia yako katika kujenga maisha yenye maana na furaha kwako binafsi. Kuwa mwaminifu kwa ndoto zako na endelea kujitahidi kuzifikia. Kumbuka, wewe ndiye msafiri katika safari yako ya maisha. Unajua ni umbali gani umefika na ni umbali upi unahitaji kufikia maono yako. Thamini na heshimu uzoefu wako na uwezo wako wa kufanya maamuzi sahihi kwa ajili ya safari yako ya kibinafsi.
+
+
+
+
+
+
 
