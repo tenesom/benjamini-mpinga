@@ -8,7 +8,7 @@ website:
   description: "Coding for all for better today and tommorow"
   
   navbar:
-      background: "#1C7D97"
+      background: "#1C7d97"
       right:
         - text: Posts
           href: blog.qmd 
@@ -56,10 +56,10 @@ website:
 
 format:
   html:
-    highlight-style: arrow  
-    theme: 
-     light: flatly
-     dark: darkly
+    highlight-style:  espressomonochromevim-dark  
+    theme: solar
+     # light: flatly
+     # dark: darkly
      
       
      
